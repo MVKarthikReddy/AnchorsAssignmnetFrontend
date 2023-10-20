@@ -1,0 +1,13 @@
+.navbar-con{
+    color: white;
+    height: 60px;
+    background-color: rgb(24, 23, 21);
+}
+.nav-logo{
+    font-weight: 700;
+    font-size: x-large;
+    display: flex;
+    position: absolute;
+    left: 20px;
+    top: 12px;
+}
