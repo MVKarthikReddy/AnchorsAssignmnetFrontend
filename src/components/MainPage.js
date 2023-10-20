@@ -26,7 +26,7 @@ const MainPage = () => {
            try{
                 // 
                 await axios.post(
-                    'http://localhost:5002/',
+                    'https://anchorsbackendservice.onrender.com/',
                     {
                         url:url,
                     },
